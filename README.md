@@ -1,4 +1,4 @@
-# Windows工具集-PDFTools
+# Windows工具集：PDFTools
 将PDF导出JPG图片
 
 ## 使用方法
